@@ -1,19 +1,11 @@
-- 👋 Hi, I’m Santiago Serpa
-- 👀 I’m interested in web development.
-- 🌱 I’m currently learning Html, Css and Js.
-- 📫 My preferred way of contact is via Twitter -> @santiago__serpa
-- I am looking for a job opportunity that will allow me to acquire good practices in software development, hire me and give me a chance to grow professionally.
+Hola, soy Santiago Serpa.
 
+Desarrollador Junior apasionado por la tecnología y las soluciones que esta nos ofrece.
 
-website: https://santiagoserpa.vercel.app/
+Soy una persona muy empática y responsable  dispuesto a escuchar y aprender de los demás.
 
-linkedin: https://www.linkedin.com/in/santiago-serpa-69b70a109/
+Actualmente estoy aprendiendo la tecnología Java junto con el framework Spring Boot, consumo APIs RESTful usando Angular, por lo que TypeScript se me es muy familiar, tambien tengo nociones sobre bases de datos relacionales y uso de GIT para manejar las versiones de mis proyectos personales.
 
+Busco una oportunidad laboral que me permita adquirir buenas prácticas y conocimientos en esta área del desarrollo de software.
 
-
-
-
-<!---
-usersantiago/usersantiago is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Contactame:  https://www.linkedin.com/in/santiago-serpa-69b70a109/

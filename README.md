@@ -15,7 +15,7 @@ Desarrollador Junior apasionado por la tecnología, los sistemas de información
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-ar21.svg" style="background-color:#c9d1d9"></code>
 </p>
 
-Actualmente estoy trabajando en [sisvot-app](https://github.com/usersantiago/votaciones) proyecto que implementa tecnologias como:
+Actualmente estoy trabajando en un proyecto personal llamado [sisvot-app](https://github.com/usersantiago/votaciones) proyecto que implementa tecnologias como:
 - Java
 - SpringBoot
 - MySQL - MongoDB
